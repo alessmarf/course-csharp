@@ -12,6 +12,7 @@ namespace ConsoleAppTesteGit
             Console.WriteLine("Tenha um Bom dia");
             Console.WriteLine("Tchau");
             Console.WriteLine("Boa Noite");
+            Console.WriteLine("Boa Tarde");
         }
     }
 }
